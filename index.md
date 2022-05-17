@@ -4,3 +4,5 @@ This is some text
 # Dumb stuff
 [Lab Report 1](lab-report-1-week-2.html) 
 [Lab Report 1](https://jcausing.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+<br>
+[Lab Report 3](lab-report-3-week-6.html)
